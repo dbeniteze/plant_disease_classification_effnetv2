@@ -1,0 +1,2 @@
+# plant_disease_classification_effnetv2
+Plant disease classification using Efficientnetv2-b2-imagenet
