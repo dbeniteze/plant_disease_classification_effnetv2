@@ -4,11 +4,8 @@ Plant disease classification using Efficientnetv2-b2-imagenet
 ## Results:
 
 Found 8339 images belonging to 41 classes.
-66/66 [==============================] - 51s 784ms/step - loss: 0.1967 - accuracy: 0.9677
-Time taken to evaluate the model: 51.732882499694824
 Test Loss: 0.1966528296470642
 Test Accuracy: 0.9677419066429138
-66/66 [==============================] - 37s 538ms/step
               precision    recall  f1-score   support
 
            0     0.9919    0.9762    0.9840       126
